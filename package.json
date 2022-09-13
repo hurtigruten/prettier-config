@@ -1,0 +1,7 @@
+{
+  "name": "@hurtigruten/prettier-config",
+  "version": "1.0.0",
+  "description": "Hurtigruten's prettier config",
+  "main": "index.js",
+  "license": "MIT"
+}
